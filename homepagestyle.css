@@ -1,0 +1,341 @@
+header li{
+    display: inline;
+    padding-right: 20px;
+    padding-left: 20px;
+
+}
+header ul{
+    display: inline;
+    margin-left: 40%;
+}
+
+header a{
+    text-decoration: none;
+    color: #efafaf;
+    background:white;
+    border-radius: 50px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-family: "Verdana",cursive;
+
+}
+header{
+    display: flex;
+}
+body
+{
+    background-image: url("https://64.media.tumblr.com/c01e359f21040cea1d24a011b92289a7/321b974497c21476-3e/s540x810/cf1c0a4ac906c41d78e26de4b1dfeb18727bd8d0.jpg");
+
+}
+footer
+{
+    background: white;
+}
+footer li{
+    display: inline;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+footer ul{
+    display: inline;
+    margin-left: 29%;
+}
+footer span
+{
+    padding-left:8%;
+}
+footer a{
+    text-decoration: none;
+    color: transparent;
+}
+#tate{
+    background: transparent;
+}
+.div2{
+
+    padding-top: 1%;
+    margin-left: 7%;
+    margin-right: 7%;
+    color: white;
+    background: transparent;
+}
+#title
+{
+    background:black;
+    border-radius: 50px;
+
+}
+#title h1
+{
+    padding-top: 25px;
+}
+#title p
+{
+    text-align: center;
+    padding-bottom: 25px;
+}
+
+.div2 h1{
+    text-align: center;
+    color: white;
+}
+.parts{
+    display: flex;
+    justify-content: center;
+}
+.sliki {
+    display: flex;
+    justify-content: center;
+}
+.part{
+    background: black;
+    color: white;
+    margin: 2% 1% 2% 1%;
+    border-radius: 8%;
+}
+.part img{
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 10%;
+}
+.part hr{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.part p{
+    text-align: center;
+    margin-right: 5%;
+    margin-left: 5%;
+}
+.part a{
+    text-decoration: none;
+    color: white;
+}
+.part h1{
+    font-family: "Brush Script MT",cursive;
+}
+#biography
+{
+    background-image: url("https://thumbs.dreamstime.com/z/pink-cork-background-texture-155125899.jpg");
+    margin-left: 7%;
+    margin-right: 7%;
+    color: white;
+    border-radius: 60px;
+}
+#biography
+{
+    position: relative;
+    height: 1000px;
+    border-color: yellow;
+    border-width: 100px;
+}
+#mala
+{
+    position: absolute;
+    padding-left: 800px;
+    top:50px;
+}
+#baby > p,#child > p,#teenager > p
+{
+    width: 500px;
+    background: black;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+    padding-top:15px;
+    border-radius: 50px;
+}
+#baby > p,#teenager>p,#child img
+{
+    margin-left:80px
+}
+#baby > h1
+{
+    size:60px;
+    width: 200px;
+    padding-top: 100px;
+    margin-top: 50px;
+    padding-left: 30px;
+}
+#teenager
+{
+    padding-bottom: 100px;
+}
+#teenager h1 {
+    size: 60px;
+    width: 200px;
+    padding-left: 50px;
+}
+
+#child h1
+{
+    size:60px;
+    width: 200px;
+    margin-left: 800px;
+    margin-top: 70px;
+    position: absolute;
+
+}
+#child > p
+{
+    margin-left:700px ;
+    margin-top:-200px;
+    position: absolute;
+}
+#golema
+{
+    margin-left:850px ;
+    position: absolute;
+    margin-top: -100px;
+}
+#child img
+{
+    padding-top:50px;
+}
+#biography h1
+{
+    font-family: "Brush Script MT",cursive;
+    font-size: 40px;
+    color:black;
+}
+#life
+{
+    padding-top: 25px;
+    padding-bottom: 25px;
+    border-radius: 60px;
+}
+#tate > div > h1
+{
+    background: black;
+}
+.education
+{
+    background-image: url("https://www.onlygfx.com/wp-content/uploads/2018/02/watercolor-circle-for-icon-3.png");
+    background-repeat: repeat-x;
+    background-size: 434px;
+}
+#top
+{
+    padding-bottom: 25px;
+    padding-top: 25px;
+    text-align:center;
+    border-radius: 60px;
+}
+.education h1
+{
+    text-align: center;
+    font-family: "Brush Script MT",cursive;
+    font-size: 40px;
+}
+.education p
+{
+    font-size: 18px;
+}
+#faculty
+{
+    position: absolute;
+    left: 1050px;
+    bottom: 180px;
+    width: 300px;
+    text-align: center;
+}
+#high
+{
+    position: absolute;
+    left: 630px;
+    bottom: 140px;
+    width: 300px;
+    text-align: center;
+}
+#prvo
+{
+    position: absolute;
+    bottom: 200px;
+    left: 200px;
+    text-align: center;
+}
+#holder
+{
+    margin-top:400px;
+    margin-left:300px;
+}
+#holder2
+{
+    padding-left: 90px;
+    padding-top: 40px;
+}
+.education a
+{
+    color:floralwhite;
+    width: border-box;
+    padding-top: 40px;
+}
+
+#Barcelona
+{
+    height: 300px;
+    width: 400px;
+}
+#english
+{
+    height: 200px;
+    width: 300px;
+}
+#patient
+{
+    height: 300px;
+    padding-left: 125px;
+}
+
+#travel,#languages,#books
+{
+   width: 800px;
+    height: 1000px;
+    position: center;
+    margin: auto;
+    background-image: url("https://www.freeiconspng.com/uploads/striped-beige-paper-background-images-0.png");
+    background-size: 700px;
+    background-repeat: no-repeat;
+    color: midnightblue;
+
+
+}
+#travel p,#languages p,#books p
+{
+    width: 550px;
+    padding-left: 80px;
+    padding-top: 16px;
+    line-height: 50px;
+    font-size: 30px;
+    font-family: "Brush Script MT",cursive;
+    font-weight: lighter;
+}
+#travel h1,#languages h1,#books h1
+{
+    padding-top: 75px;
+    position: center;
+    width: 600px;
+    font-family: "Brush Script MT",cursive;
+    font-weight: bold;
+    font-size: 50px;
+    color: midnightblue;
+}
+#fig1,#fig2,#fig3
+{
+    padding-left: 100px;
+}
+#naslov
+{
+    padding-bottom: 25px;
+    padding-top: 25px;
+    border-radius: 60px;
+}
+
+
+
+
+
+
+
